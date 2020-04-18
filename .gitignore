@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+*.sln
+std*
+*.1.tlog
+target*
+*.log
+*.idb
+*.pdb
+*.filters
+*.sdf
+*.lastbuildstate
+*.ilk
+*.user
+*.suo
+
